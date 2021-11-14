@@ -4,4 +4,4 @@ Talk presented at [AppSec Pacific Northwest](https://pnwcon.com/) on June 19th, 
 
 The Windows exploit code referenced in this talk is available [here](https://github.com/captainGeech42/InfELKtrationInject/tree/v7.10.1).
 
-Recording available soon.
+Recording available [here](https://www.youtube.com/watch?v=R9RlbLzqBE4).
